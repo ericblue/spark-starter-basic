@@ -25,7 +25,7 @@
         <div class="inner">
             <h3 class="masthead-brand">Spark-Starter-Basic</h3>
             <nav class="nav nav-masthead justify-content-center">
-                <a class="nav-link active" href="https://github.com/ericblue/micronaut-starter-basic">Github Project</a>
+                <a class="nav-link active" href="https://github.com/ericblue/spark-starter-basic">Github Project</a>
                 <a class="nav-link" href="/swagger-ui/">Swagger UI</a>
             </nav>
         </div>
